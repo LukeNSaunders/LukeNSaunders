@@ -1,6 +1,6 @@
 # Luke Saunders 
 
-Hey! I'm Luke! (He/Him) I'm a Software Engineer with a background in the creative industries.
+Hey! I'm Luke! I'm a Software Engineer with a background in the creative industries.
 
 - 🏢 I'm currently working on an app that streamlines payment management for freelancers.
 

@@ -2,8 +2,6 @@
 
 Hey! I'm Luke! I'm a Software Engineer with a background in the creative industries.
 
-- 🏢 I'm currently working on an app that streamlines payment management for freelancers.
-
 - 🌱 I’m currently learning more about Golang and THREE.js.
 
 - 🤝 Always looking to collaborate on exciting projects!

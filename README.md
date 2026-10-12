@@ -2,7 +2,7 @@
 
 Hey! I'm Luke! I'm a Software Engineer with a background in the creative industries.
 
-- 🌱 I’m currently learning more about Golang and THREE.js.
+- 💻 I work mainly in Go and TypeScript.
 
 - 🤝 Always looking to collaborate on exciting projects!
 
